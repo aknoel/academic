@@ -1,1 +1,0 @@
-# sknoel.github.io
