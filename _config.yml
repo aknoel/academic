@@ -2,14 +2,12 @@
 #
 
 # Site settings
-title: Spectral
+title: Sarah K. Noel
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+  Engineering | Geology | Geophysics  
+owner: Sarah K Noel
+first_published: 2026
+email: sknoel@alaska.edu
 baseurl: "/academic" # the subpath of your site, e.g. /blog
 url: "https://aknoel.github.io" # the base hostname & protocol for your site
 social:
