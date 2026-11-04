@@ -1832,3 +1832,18 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 	}
+
+	ul.dated {
+    list-style: none;    // no bullet
+    padding-left: 0;     // remove the space the bullet used
+
+    li {
+        padding-left: 0;
+    }
+
+    .date {
+        float: right;
+        margin-left: 1em;
+        white-space: nowrap;
+    }
+}
